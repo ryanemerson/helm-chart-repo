@@ -3,11 +3,11 @@ entries:
   datagrid-helm-charts:
   - apiVersion: v2
     appVersion: "8.2"
-    created: "2021-08-24T13:18:08.515532381+01:00"
+    created: "2021-08-24T15:48:25.688298152+01:00"
     description: A Helm chart that lets you build and deploy Red Hat Data Grid clusters.
-    digest: 9543da66fc5b10180390ada9de723f02521f4e79d4319be8a90e52d6babb45fa
+    digest: 7bbe8faa9737bcf5ca5889bcf312717b35dd2619bcc806389558bbd683449ab4
     home: https://access.redhat.com/documentation/en-us/red_hat_data_grid/8.2
-    icon: https://design.jboss.org/infinispan/logo/final/PNG/infinispan_icon_rgb_lightbluewhite_256px.png
+    icon: https://access.redhat.com/webassets/avalon/d/red-hat-data-grid/images/rhdg-icon.png
     maintainers:
     - name: Red Hat
       url: https://access.redhat.com/documentation/en-us/red_hat_data_grid/8.2
@@ -19,4 +19,4 @@ entries:
     urls:
     - charts/datagrid-helm-charts-8.2.0.tgz
     version: 8.2.0
-generated: "2021-08-24T13:18:08.511345463+01:00"
+generated: "2021-08-24T15:48:25.683672512+01:00"
