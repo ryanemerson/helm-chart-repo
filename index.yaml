@@ -3,9 +3,9 @@ entries:
   data-grid:
   - apiVersion: v2
     appVersion: "8.2"
-    created: "2021-08-26T15:25:35.025402493+01:00"
+    created: "2021-08-26T16:19:45.774452696+01:00"
     description: A Helm chart that lets you build and deploy Red Hat Data Grid clusters.
-    digest: e0145afe27f4c35021a84fb915e8bc6b8fdfe7dcfcd42626131e012b58709932
+    digest: be462f387b5cb2cfcce7c36f467d0a5da47317f4837e9cad6c86e31fb7335955
     home: https://access.redhat.com/documentation/en-us/red_hat_data_grid/8.2
     icon: https://access.redhat.com/webassets/avalon/d/red-hat-data-grid/images/rhdg-icon.png
     maintainers:
@@ -22,7 +22,7 @@ entries:
   infinispan:
   - apiVersion: v2
     appVersion: "12.1"
-    created: "2021-08-26T15:25:35.027249992+01:00"
+    created: "2021-08-26T16:19:45.77596615+01:00"
     description: A Helm chart that lets you build and deploy Infinispan clusters.
     digest: b261d4235a9de090fb2ff684b03900b0a4a836df4b70b00d2e82b71ed39a73ce
     home: https://infinispan.org/
@@ -38,4 +38,4 @@ entries:
     urls:
     - charts/infinispan-0.1.0.tgz
     version: 0.1.0
-generated: "2021-08-26T15:25:35.024151335+01:00"
+generated: "2021-08-26T16:19:45.7726803+01:00"
