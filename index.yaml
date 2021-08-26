@@ -1,9 +1,47 @@
 apiVersion: v1
 entries:
+  data-grid:
+  - apiVersion: v2
+    appVersion: "8.2"
+    created: "2021-08-26T12:45:29.726332324+01:00"
+    description: A Helm chart that lets you build and deploy Red Hat Data Grid clusters.
+    digest: b6940642e08f7063fb98d09bb709c18e5fe670b35716b847ed68672094c31fce
+    home: https://access.redhat.com/documentation/en-us/red_hat_data_grid/8.2
+    icon: https://access.redhat.com/webassets/avalon/d/red-hat-data-grid/images/rhdg-icon.png
+    maintainers:
+    - name: Red Hat
+      url: https://access.redhat.com/documentation/en-us/red_hat_data_grid/8.2
+    name: data-grid
+    sources:
+    - https://github.com/infinispan/infinispan
+    - https://github.com/infinispan/infinispan-helm-charts
+    type: application
+    urls:
+    - charts/data-grid-8.2.0.tgz
+    version: 8.2.0
+  datagrid:
+  - apiVersion: v2
+    appVersion: "8.2"
+    created: "2021-08-26T12:45:29.728021433+01:00"
+    description: A Helm chart that lets you build and deploy Red Hat Data Grid clusters.
+    digest: 7909445c1ddbf884136ca4e97169a77ec245f9b234d2b8dd510f3d0de45b6582
+    home: https://access.redhat.com/documentation/en-us/red_hat_data_grid/8.2
+    icon: https://access.redhat.com/webassets/avalon/d/red-hat-data-grid/images/rhdg-icon.png
+    maintainers:
+    - name: Red Hat
+      url: https://access.redhat.com/documentation/en-us/red_hat_data_grid/8.2
+    name: datagrid
+    sources:
+    - https://github.com/infinispan/infinispan
+    - https://github.com/infinispan/infinispan-helm-charts
+    type: application
+    urls:
+    - charts/datagrid-8.2.0.tgz
+    version: 8.2.0
   datagrid-helm-charts:
   - apiVersion: v2
     appVersion: "8.2"
-    created: "2021-08-26T12:29:00.228205935+01:00"
+    created: "2021-08-26T12:45:29.731842029+01:00"
     description: A Helm chart that lets you build and deploy Red Hat Data Grid clusters.
     digest: 7bbe8faa9737bcf5ca5889bcf312717b35dd2619bcc806389558bbd683449ab4
     home: https://access.redhat.com/documentation/en-us/red_hat_data_grid/8.2
@@ -22,7 +60,7 @@ entries:
   infinispan:
   - apiVersion: v2
     appVersion: "12.1"
-    created: "2021-08-26T12:29:00.229122011+01:00"
+    created: "2021-08-26T12:45:29.732764218+01:00"
     description: A Helm chart that lets you build and deploy Infinispan clusters.
     digest: b261d4235a9de090fb2ff684b03900b0a4a836df4b70b00d2e82b71ed39a73ce
     home: https://infinispan.org/
@@ -38,4 +76,4 @@ entries:
     urls:
     - charts/infinispan-0.1.0.tgz
     version: 0.1.0
-generated: "2021-08-26T12:29:00.223086315+01:00"
+generated: "2021-08-26T12:45:29.724995012+01:00"
